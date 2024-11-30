@@ -18,13 +18,8 @@ This project is a custom CAPTCHA verification system designed to enhance user ex
 2. **Verify**: Check the "I am not a robot" box after reviewing the images.
 3. **Retry**: If you wish to change the images, click the "Retry" button to shuffle them.
 
-## Installation Instructions
-1. Download or clone the project files.
-2. Ensure you have a local server or simply open the HTML file directly in a browser.
-3. The CAPTCHA system will work out-of-the-box without any additional configuration.
+## Developer Information
+- **Name**: Anton Micheal Fayez
+- **Student ID**: 20230541634
 
-## Contribution
-Feel free to fork this repository and submit pull requests if you'd like to improve the system or add more features!
-
-## License
-This project is open-source and free to use for personal and educational purposes.
+A special thanks to my doctor for their guidance .
